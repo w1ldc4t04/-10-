@@ -40,4 +40,4 @@ print(D)
 {'張三': 88, '李四': 90, '王五': 93, '錢七': 90}
 ```
 # 實作
-![image]([https://github.com/w1ldc4t04/-10-/blob/main/10.png](https://github.com/w1ldc4t04/-10-/blob/main/1011.png))
+![image](https://github.com/w1ldc4t04/-10-/blob/main/10.png)
